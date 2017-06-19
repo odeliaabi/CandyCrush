@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1473162058 source:c:\users\abizmil odelia\desktop\0_0 le projet des adorables\brick letters\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+	<windows.h>
+
+1473166382 c:\users\abizmil odelia\desktop\0_0 le projet des adorables\brick letters\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1473177095 source:c:\users\abizmil odelia\desktop\0_0 le projet des adorables\brick letters\brickletter.c
+	"biblio.h"
+
+1473173495 source:c:\users\abizmil odelia\desktop\a trier\0_0 le projet des adorables\brick letters\brickletter.c
+	"biblio.h"
+
+1473162782 c:\users\abizmil odelia\desktop\a trier\0_0 le projet des adorables\brick letters\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1473158458 source:c:\users\abizmil odelia\desktop\a trier\0_0 le projet des adorables\brick letters\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+	<windows.h>
+
+1473177095 source:d:\ing2\semestre 1\info\0_0 le projet des adorables\brick letters\brickletter.c
+	"biblio.h"
+
+1473166382 d:\ing2\semestre 1\info\0_0 le projet des adorables\brick letters\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1473162058 source:d:\ing2\semestre 1\info\0_0 le projet des adorables\brick letters\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+	<windows.h>
+

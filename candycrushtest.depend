@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1473162058 source:c:\users\abizmil odelia\desktop\0_0 le projet des adorables\brick letters\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+	<windows.h>
+
+1473159714 c:\users\abizmil odelia\desktop\0_0 le projet des adorables\brick letters\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

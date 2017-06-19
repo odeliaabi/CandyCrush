@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1472860355 source:c:\users\mathilde\desktop\brick letters\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+	<windows.h>
+
+1472916946 c:\users\mathilde\desktop\brick letters\biblio.h
+	<windows.h>
+
+1472916946 source:c:\users\mathilde\desktop\brick letters\brickletter.c
+	"biblio.h"
+
+1473076492 source:c:\users\mathilde\desktop\programmation en c\brick letters\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	<time.h>
+	<windows.h>
+
+1473093870 c:\users\mathilde\desktop\programmation en c\brick letters\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1473094826 source:c:\users\mathilde\desktop\programmation en c\brick letters\brickletter.c
+	"biblio.h"
+
